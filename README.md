@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <code>while True: level_up()</code>
+  <p>while True: level_up().</p>
 </p>
 
 ---
