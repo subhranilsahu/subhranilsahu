@@ -1,3 +1,4 @@
+
 <h1 align="center">Subhranil Sahu</h1>
 
 <h3 align="center">
@@ -21,6 +22,14 @@ Building things, breaking things, figuring things out.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode" />
+</p>
+
+<hr>
+
+### GitHub Contributions
+
+<p align="center">
+  <img src="./assets/github-contributions.svg" alt="GitHub Contribution Graph" width="100%" />
 </p>
 
 <hr>
