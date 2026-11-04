@@ -39,4 +39,4 @@ Email | <a href="mailto:subhronil958@gmail.com">subhronil958@gmail.com</a>
 
 <hr>
 
-<font color="gray">Simplicity is not the absence of complexity, but the result of understanding it.</font>
+<img src="https://img.shields.io/badge/-%7C%20Simplicity%20is%20not%20the%20absence%20of%20complexity%2C%20but%20the%20result%20of%20understanding%20it.-555555?style=flat-square&labelColor=555555" />
