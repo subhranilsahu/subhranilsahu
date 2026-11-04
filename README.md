@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <p>while True: level_up().</p>
+  less talk, more commits.
 </p>
 
 ---
