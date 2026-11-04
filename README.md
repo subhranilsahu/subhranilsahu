@@ -31,9 +31,3 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode" />
 </p>
-
----
-
-<p align="center">
-  <sub>just building things and figuring them out.</sub>
-</p>
