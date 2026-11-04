@@ -19,7 +19,7 @@
 
 ### Connect
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/subhranilsahu">GitHub</a> ·
   <a href="https://instagram.com/subhranil.sahu">Instagram</a> ·
   <a href="https://twitter.com/subhuexe">Twitter / X</a> ·
@@ -28,7 +28,7 @@
 
 ### Tech Stack
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode" />
 </p>
 
