@@ -26,14 +26,6 @@ Building things, breaking things, figuring things out.
 
 <hr>
 
-### GitHub Contributions
-
-<p align="center">
-  <img src="./assets/github-contributions.svg" alt="GitHub Contribution Graph" width="100%" />
-</p>
-
-<hr>
-
 ### Get in Touch
 
 Instagram | <a href="https://instagram.com/subhranil.sahu">subhranil.sahu</a>
