@@ -17,17 +17,20 @@
 - Interested in coding, technology & creative editing
 - Always experimenting, building and learning.
 
-### Connect
-
-<p align="left">
-  <a href="https://github.com/subhranilsahu">GitHub</a> ·
-  <a href="https://instagram.com/subhranil.sahu">Instagram</a> ·
-  <a href="https://twitter.com/subhuexe">Twitter / X</a> ·
-  <a href="https://codeforces.com/profile/subhuuuuuuxd">Codeforces</a>
-</p>
-
 ### Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode" />
 </p>
+
+### Get in Touch
+
+Instagram | <a href="https://instagram.com/subhranil.sahu">subhranil.sahu</a>
+
+Twitter / X | <a href="https://twitter.com/subhuexe">@subhuexe</a>
+
+GitHub | <a href="https://github.com/subhranilsahu">subhranilsahu</a>
+
+Codeforces | <a href="https://codeforces.com/profile/subhuuuuuuxd">subhuuuuuuxd</a>
+
+Email | <a href="mailto:subhronil958@gmail.com">subhronil958@gmail.com</a>
