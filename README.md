@@ -10,12 +10,10 @@
 
 ---
 
-### About
+### Who I Am
 
-- Currently building [My Portfolio](https://github.com/subhranilsahu/My-Portfolio)
-- Learning Python & Full-Stack Development
-- Interested in coding, technology & creative editing
-- Always experimenting, building and learning.
+Just a curious mind exploring code, technology and new ideas.  
+Building things, breaking things, figuring things out.
 
 ### Tech Stack
 
