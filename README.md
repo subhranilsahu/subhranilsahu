@@ -39,4 +39,4 @@ Email | <a href="mailto:subhronil958@gmail.com">subhronil958@gmail.com</a>
 
 <hr>
 
-<p style="color: grey;">Simplicity is not the absence of complexity, but the result of understanding it.</p>
+<font color="gray">Simplicity is not the absence of complexity, but the result of understanding it.</font>
