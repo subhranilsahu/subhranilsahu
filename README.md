@@ -34,6 +34,14 @@
 
 ---
 
+### Contributions
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=subhranilsahu&bg_color=00000000&color=8b949e&line=39d353&point=ffffff&area=true&hide_border=true" width="100%" />
+</p>
+
+---
+
 <p align="center">
   <sub>just building things and figuring them out.</sub>
 </p>
