@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Subhranil.</h1>
+<h1 align="center">Subhranil Sahu</h1>
 
 <h3 align="center">
   B.Tech Artificial Intelligence @ Zenith School of AI
@@ -38,3 +38,5 @@ Codeforces | <a href="https://codeforces.com/profile/subhuuuuuuxd">subhuuuuuuxd<
 Email | <a href="mailto:subhronil958@gmail.com">subhronil958@gmail.com</a>
 
 <hr>
+
+<p style="color: grey;">| Simplicity is not the absence of complexity, but the result of understanding it.</p>
