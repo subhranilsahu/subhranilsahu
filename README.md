@@ -1,8 +1,12 @@
-# Hi, I'm Subhranil.
+<h1 align="center">Hi, I'm Subhranil.</h1>
 
-**B.Tech Artificial Intelligence @ Zenith School of AI**
+<h3 align="center">
+  B.Tech Artificial Intelligence @ Zenith School of AI
+</h3>
 
-`while True: level_up()`
+<p align="center">
+  <code>while True: level_up()</code>
+</p>
 
 ---
 
@@ -15,25 +19,17 @@
 
 ### Connect
 
-[GitHub](https://github.com/subhranilsahu) · [Instagram](https://instagram.com/subhranil.sahu) · [Twitter / X](https://twitter.com/subhuexe) · [Codeforces](https://codeforces.com/profile/subhuuuuuuxd)
+<p align="left">
+  <a href="https://github.com/subhranilsahu">GitHub</a> ·
+  <a href="https://instagram.com/subhranil.sahu">Instagram</a> ·
+  <a href="https://twitter.com/subhuexe">Twitter / X</a> ·
+  <a href="https://codeforces.com/profile/subhuuuuuuxd">Codeforces</a>
+</p>
 
 ### Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode" />
-</p>
-
----
-
-### GitHub Activity
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=subhranilsahu&show_icons=true&hide_border=true&theme=transparent" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhranilsahu&layout=compact&hide_border=true&theme=transparent" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=subhranilsahu&hide_border=true&theme=transparent" />
 </p>
 
 ---
