@@ -8,18 +8,22 @@
   less talk, more commits.
 </p>
 
----
+<hr>
 
 ### Who I Am
 
 Just a curious mind exploring code, technology and new ideas.  
 Building things, breaking things, figuring things out.
 
+<hr>
+
 ### Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode" />
 </p>
+
+<hr>
 
 ### Get in Touch
 
@@ -32,3 +36,5 @@ GitHub | <a href="https://github.com/subhranilsahu">subhranilsahu</a>
 Codeforces | <a href="https://codeforces.com/profile/subhuuuuuuxd">subhuuuuuuxd</a>
 
 Email | <a href="mailto:subhronil958@gmail.com">subhronil958@gmail.com</a>
+
+<hr>
