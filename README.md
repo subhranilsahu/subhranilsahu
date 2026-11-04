@@ -19,7 +19,7 @@
 
 ### Connect
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/subhranilsahu">GitHub</a> ·
   <a href="https://instagram.com/subhranil.sahu">Instagram</a> ·
   <a href="https://twitter.com/subhuexe">Twitter / X</a> ·
